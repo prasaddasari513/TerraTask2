@@ -11,9 +11,9 @@ export default function OverviewSection() {
             <div className="mb-4">
               <h2 className="text-2xl font-bold text-slate-900 mb-2">Student Information</h2>
               <div className="space-y-2 text-lg">
-                <p><span className="font-semibold">Name:</span> [Your Name Here]</p>
-                <p><span className="font-semibold">Section:</span> [Your Section Here]</p>
-                <p><span className="font-semibold">Roll Number:</span> [Your Roll Number Here]</p>
+                <p><span className="font-semibold">Name:</span> Prasad Dasari</p>
+                <p><span className="font-semibold">Section:</span> 9S007</p>
+                <p><span className="font-semibold">Roll Number:</span> 12221537</p>
               </div>
             </div>
           </div>
